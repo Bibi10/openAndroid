@@ -7,7 +7,7 @@
 The application consists of four services:
 
     Python Service      : Retrieve and Transform data with pandas.
-    Mobile Service      : Fatch and Create Graph withretirev  Data.
+    Mobile Service      : Fetch and Create Graph with retrieve Data.
 
 Both services are implemented using Pandas, [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 , Python and Java.
@@ -24,7 +24,7 @@ V0.1.0
 
 ## How to use it ?
 
-![Install the apk on your phone](Total_Terminal.png)
+![Install the apk on your phone](Terminal.apk)
 
 ### Pre-requirement
 
