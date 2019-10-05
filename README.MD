@@ -24,7 +24,7 @@ V0.1.0
 
 ## How to use it ?
 
-![Install the apk on your phone](Terminal.apk)
+Download and Install the ![apk ](Terminal.apk)
 
 ### Pre-requirement
 
@@ -32,5 +32,3 @@ First, install theses tools:
 
 - [Python](https://www.python.org)
 - [Android Studio](https://developer.android.com)
-
-### Usage
