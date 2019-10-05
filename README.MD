@@ -1,4 +1,4 @@
-# SERVICE-API
+# OpenData-Mobile
 
 ## What we want to build :
 
@@ -22,13 +22,13 @@ V0.1.0
 
 ![Info_Terminal](Info_Terminal.png)
 
-## How to use it ?
-
-Download and Install the ![apk ](Terminal.apk)
-
 ### Pre-requirement
 
 First, install theses tools:
 
 - [Python](https://www.python.org)
 - [Android Studio](https://developer.android.com)
+
+## How to use it ?
+
+Download and Install the ![apk ](Terminal.apk)
