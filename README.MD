@@ -1,4 +1,3 @@
-# OpenData-Mobile
 
 ## What we want to build :
 
